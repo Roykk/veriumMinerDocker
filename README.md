@@ -6,7 +6,10 @@ Currently not working on OSX. Seems to die cause of memory. Tried adding memory-
 Install docker!  
 https://www.docker.com/
 
-
+##TODO
+ - add a quick how to start docker
+ - add how to install homebrew
+ - add some of my best docker alias
  
 ## How to run this:
 
