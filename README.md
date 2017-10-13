@@ -26,8 +26,7 @@ Works on OSX, Windows, not tested on Ubuntu or other unix.
 1. Run the docker image with `docker run -d --name myMiner miner -n 1048576 -o [poolURL] -u [username] -p password`.
 
   Here is an example:
-  ``` docker run -d --name myMiner miner -n 1048576 -o stratum+tcp://pool-eu.bloxstor.com:3002 -u VTPYitLGPyLhrmNUb4fC1DZ3o3bjfjQgYV.sonat-worker-01 -p 1234qwer
-  ```
+  ```docker run -d --name myMiner miner -n 1048576 -o stratum+tcp://pool-eu.bloxstor.com:3002 -u VTPYitLGPyLhrmNUb4fC1DZ3o3bjfjQgYV.sonat-worker-01 -p 1234qwer```
 1. To see what is going on you can use `docker logs myMiner`
 
 ### Troubleshooting
