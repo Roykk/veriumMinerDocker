@@ -19,7 +19,7 @@ Works on OSX, Windows, Linux.
  - Press `Next`
  - Select OS
  - Select `Verium Miner`
- - Select `EU LONDON` as server
+ - Select `EU LONDON` as server or the closest located to you
  - Select one of the ports to mine on
  - Press `Finish` and a command is created
  - Use this command when running docker
