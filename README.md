@@ -1,6 +1,6 @@
 # veriumMinerDocker
 Setting up a docker image which mines verium   
-Works on OSX, Windows, not tested on Ubuntu or other unix.
+Works on OSX, Windows, Linux.
 
 # Getting started mining verium
 
