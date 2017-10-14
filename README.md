@@ -1,4 +1,4 @@
-# veriumMinerDocker
+# Verium Miner with Docker
 Setting up a docker image which mines verium   
 Works on OSX, Windows, Linux.
 
