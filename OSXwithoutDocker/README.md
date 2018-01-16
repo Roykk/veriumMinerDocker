@@ -17,7 +17,7 @@ This README provides step by step, and OSX troubleshooting :)
 1.  ```git clone https://github.com/effectsToCause/veriumMiner.git```
 2.  ```cd veriumMiner```
 3.  ```./nomacro.pl```  
-4.  ```./autoconfig.sh```  
+4.  ```./autogen.sh```  
 5.  ```./configure```
 6.  ```make```  
 
