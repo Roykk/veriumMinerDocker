@@ -33,4 +33,3 @@ Works on OSX, Windows, Linux.
 *My container keeps crashing, what do i do?*
 On OSX the default memory limit is max 2GiB. Its needs to be increased.
 Click the whale in top menubar-->preference--> increase memory to 5GiB, and CPU to as many as you want to use.
-
